@@ -1,0 +1,7 @@
+[submodule "rakun-js"]
+	path = rakun-js
+	url =  https://github.com/LightspaceBR/rakun-js.git
+
+[submodule "rakun-go"]
+	path = rakun-go
+	url =  https://github.com/LightspaceBR/rakun-go.git
